@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    font-size: 1.4rem;
+    font-weight: bolder;
+}
+
+body {
+    text-align: center;
+    
+    font-family: "Helvetica Now Var";  
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background: url('https://thehordern.com.au/app/uploads/2023/07/FRED-AGAIN-HORDERN-SYD-JORDAN-MUNNS-@jordankmunns-2.jpg');
+  }
+  
+  .background {
+    position: relative; 
+    width: 100%;
+    height: 100vh;
+    background: url('https://thehordern.com.au/app/uploads/2023/07/FRED-AGAIN-HORDERN-SYD-JORDAN-MUNNS-@jordankmunns-2.jpg');
+    
+  }
+
+
+.career {
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: black; 
+    background-blend-mode:darken;
+  }
+  .career h2 {
+    opacity: 100%;
+}
+ 
